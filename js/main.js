@@ -21,7 +21,7 @@
     //slider active
     
     $('#slider').nivoSlider({
-    	manualAdvance: true,
+    	manualAdvance: false,
     	prevText: '<i class="fas fa-angle-left"></i>',
     	nextText: '<i class="fas fa-angle-right"></i>',
     	controlNav: false,
