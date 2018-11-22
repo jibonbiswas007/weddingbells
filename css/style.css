@@ -889,7 +889,9 @@ gallery area css
 .gallery-item:hover figure a::before {
   background: rgba(203, 46, 101, 0.7) none repeat scroll 0 0;
 }
-.gallery-item figure img {}
+.gallery-item figure img {
+  width: 100%;
+}
 .gallery-item figure h5 {
   color: #fff;
   left: 0;
